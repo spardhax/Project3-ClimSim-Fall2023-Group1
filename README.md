@@ -7,10 +7,10 @@
 
 Term: Fall 2023
 
-+ Team ##
++ Team # 1
 + Team members
-	+ team member 1
-	+ team member 2
+	+ Julia Blake
+	+ Spardha Sharma
 	+ team member 3
 	+ team member 4
 	+ team member 5
