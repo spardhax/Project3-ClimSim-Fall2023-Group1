@@ -11,7 +11,7 @@ Term: Fall 2023
 + Team members
 	+ Julia Blake
 	+ Spardha Sharma
-	+ team member 3
+	+ Yuchen Wu
 	+ team member 4
 	+ team member 5
 
