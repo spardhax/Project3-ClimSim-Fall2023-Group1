@@ -1,0 +1,7 @@
+
+data/scoring_input.npy
+data/scoring_target.npy
+data/train_input-001.npy
+data/train_target-003.npy
+data/val_input.npy
+data/val_target.npy
