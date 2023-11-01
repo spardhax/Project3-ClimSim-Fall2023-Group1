@@ -12,7 +12,7 @@ Term: Fall 2023
 	+ Julia Blake
 	+ Spardha Sharma
 	+ Yuchen Wu
-	+ team member 4
+	+ Manan Brahmbhatt
 	+ team member 5
 
 + Project summary: In this project, we created ...
