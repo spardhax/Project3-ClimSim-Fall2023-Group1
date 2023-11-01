@@ -13,12 +13,13 @@ Term: Fall 2023
 	+ Spardha Sharma
 	+ Yuchen Wu
 	+ Manan Brahmbhatt
-	+ team member 5
+	+ Wenhe Chen
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we attempted to understand the ClimSim GitHub repository in more detail and explore different avenues for training machine learning algorithms to the data.
+
+**Contribution Statement** Julia Blake reproduced the quickstart notebook and donwloaded/subset the data for us to use in the future steps. Manan Brahmbhatt reproduced the quickstart notebook using R by implementing the Python data_utils package and adapting it for R. Spardha Sharma worked on implementing the quickstart notebook in HuggingFace for an even quicker start. Yuchen Wu and Wenhe Chen worked on implementing a Machine Learning model on the data. All team members approve our work presented in our GitHub repository including this contribution statement.
 	
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
