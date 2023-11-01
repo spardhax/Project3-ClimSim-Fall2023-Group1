@@ -24,6 +24,7 @@ library(tidyr)
 library(reshape2)
 library(RcppCNPy)
 library(gridExtra)
+library(reticulate)
 
 setwd('ClimSim')
 
@@ -165,7 +166,6 @@ preds <- list(const = const_pred_scoring, mlr = mlr_pred_scoring)
 
 data$preds_scoring <- preds
 
-# Assuming these functions are available in R, or have been translated to equivalent R functions
 data$reweight_target(data_split = 'scoring')
 data$reweight_preds(data_split = 'scoring')
 
